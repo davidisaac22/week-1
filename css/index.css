@@ -130,4 +130,7 @@ h1 {
     .category_list.cyan {
         margin-top: 0;
     }
+    .AI_categories > div {
+        width: 100%;
+    }
 }
