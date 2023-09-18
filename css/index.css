@@ -104,7 +104,7 @@ h1 {
     margin-left: auto;
 }
 .AI_categories .box2 .category_list:not(:first-child) {
-    margin-top: 30px;
+    margin-top: 20px;
 }
 @media screen and (max-width: 767px) {
     .pc_only {
